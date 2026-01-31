@@ -1,0 +1,37 @@
+{
+  "name": "c2z",
+  "version": "5.1.7",
+  "description": "c2z",
+  "main": "index.js",
+  "author": "c2z",
+  "license": "MIT",
+  "scripts": {
+    "start": "node stevddos.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.21",
+    "axios": "^1.13.2",
+    "chalk": "^5.6.2",
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dgram": "^1.0.1",
+    "gradient-string": "^2.0.2",
+    "header-generator": "^2.1.79",
+    "hpack": "^1.0.0",
+    "http2": "^3.3.7",
+    "libphonenumber-js": "^1.12.33",
+    "mineflayer": "^4.33.0",
+    "net": "^1.0.2",
+    "pino": "^9.14.0",
+    "proxy-agent": "^6.5.0",
+    "socks": "^2.8.3",
+    "ssh2": "^1.17.0",
+    "tls": "^0.0.1",
+    "user-agents": "^1.1.294"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
