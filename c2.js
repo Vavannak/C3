@@ -10,7 +10,6 @@ const { exec } = require('child_process');
 const readline = require('readline');
 const url = require('url');
 const fs = require('fs');
-const axios = require('axios');
 const path = require('path');
 
 // [--- CONFIGURATION ---]
